@@ -95,7 +95,7 @@ components.
   correct spelling, grammar, and punctuation in addition to following the rules
   of Markdown and providing  accurate answers.
 
-  - **Personal Assessment [up  to 15%]:**: Students will also receive a checkmark grade
+- **Personal Assessment [up  to 15%]:**: Students will also receive a checkmark grade
   when their personal assessment is appropriately documents in the `assessment.md` file.
 
 - **Level of Contribution [up  to 30%]:**: Students will also receive a checkmark grade

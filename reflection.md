@@ -20,19 +20,19 @@ then please explain who you observed and how they violated the code of conduct.
 
 ## Scrum Meetings
 
-### Scrum Meeting One
+### Scrum Meeting One (Date)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
-### Scrum Meeting Two
+### Scrum Meeting Two (Date)
 
 - What did you since last meeting?
 - What will you do before the next meeting?
 - Are there any obstacles in your way?
 
-### Scrum Meeting Three
+### Scrum Meeting Three (Date)
 
 - What did you since last meeting?
 - What will you do before the next meeting?

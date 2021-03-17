@@ -18,7 +18,7 @@
 
 * [Receiving Assistance](receiving-assistance)
 
-## Summary 
+## Summary
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter for Laboratory 2 in Computer Science 203. As
@@ -38,7 +38,7 @@ please ensure that:
 - You made significant contributions in your team, as evidenced by creation of new issues and appropriate modifications made to existing issues in the project repository.
 
 - You explored the Python programs and packages used by the long-term software engineering project.
-  
+
 - This GitHub repository contains a completed reflection file.
 
 ## Objectives
@@ -86,29 +86,28 @@ the completion of this long-term software project.
 The grade that a student receives on this assignment will have the following
 components.
 
-- **GitHub Actions CI Build Status [up  to 10%]:**: For lab02 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. 
+- **GitHub Actions CI Build Status [up  to 10%]:**: For lab02 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes.
 
 - **Mastery of Technical Writing [up  to 25%]:**: Students will also receive a checkmark grade
   when the responses to the  writing questions presented in the
   `reflection.md` reveal a proficiency of both writing skills and technical
   knowledge. To receive a checkmark grade, the submitted writing should have
   correct spelling, grammar, and punctuation in addition to following the rules
-  of Markdown and providing  accurate answers. 
+  of Markdown and providing  accurate answers.
   
   - **Personal Assessment [up  to 15%]:**: Students will also receive a checkmark grade
-  when their personal assessment is appropriately documents in the
-  `assessment.md` file. 
-  
+  when their personal assessment is appropriately documents in the `assessment.md` file.
+
 - **Level of Contribution [up  to 30%]:**: Students will also receive a checkmark grade
   when their level of contribution indicates active engagement in the process of planning for
   contributions to the software engineering project. The engagement should be reported in the 
   reflection document located in this repository.
 
 - **Mastery of Technical Knowledge and Skills [up  to 20%]**: Students will also receive a
-  checkmark grade when their contributions reveal that they have improved on 
+  checkmark grade when their contributions reveal that they have improved on
   the technical knowledge and skills developed during the completion of
   this assignment. As a part of this grade, the instructor will assess aspects
-  of the sprint 0 including, but not limited to, the use of effective GitHub issues, understanding 
+  of the sprint 0 including, but not limited to, the use of effective GitHub issues, understanding
   of ZenHub board, correct use of GitHub flow practices, and understanding of the objectives and inner-workings of GatorMiner.
 
 All grades for this project will be reported through a student's gradebook GitHub

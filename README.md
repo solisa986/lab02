@@ -59,9 +59,10 @@ please ensure that:
 
 Throughout the completion of this software engineering project you must adhere
 to the code of conduct that we developed as part of a previous laboratory
-assignment. In addition to reporting any violations of the code of conduct,
+assignment. 
+In addition to reporting any violations of the code of conduct,
 please make sure that you attest to the fact that you followed the code of
-conduct. Students who think that the software engineering team should revise
+conduct. That is, make sure you have signed the Code of Conduct document in its repository. Students who think that the software engineering team should revise
 some aspect of the code of conduct must use the GitHub issue tracker for that
 repository to suggest, discuss, and implement any required changes.
 
@@ -72,7 +73,8 @@ effort, you are expected to make significant contributions to the project every
 week. As a means for documenting your contributions to this project, you should
 fully complete the reflection document and, additionally, annotate the
 assessment guide to track your proficiency of the professional and technical skills
-in the field of software engineering. For every category for which you decide an
+in the field of software engineering. For this task, first copy the `assessment.md` file
+from the assessment repository to your lab02 repository. Then, for each category for which you decide an
 assessment is appropriate, you should write a couple of sentences reporting
 your current level of proficiency and the evidence that you would furnish to support
 your assessment. If there is not a description next to one of the assessment

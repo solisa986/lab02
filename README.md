@@ -94,13 +94,13 @@ components.
   knowledge. To receive a checkmark grade, the submitted writing should have
   correct spelling, grammar, and punctuation in addition to following the rules
   of Markdown and providing  accurate answers.
-  
+
   - **Personal Assessment [up  to 15%]:**: Students will also receive a checkmark grade
   when their personal assessment is appropriately documents in the `assessment.md` file.
 
 - **Level of Contribution [up  to 30%]:**: Students will also receive a checkmark grade
   when their level of contribution indicates active engagement in the process of planning for
-  contributions to the software engineering project. The engagement should be reported in the 
+  contributions to the software engineering project. The engagement should be reported in the
   reflection document located in this repository.
 
 - **Mastery of Technical Knowledge and Skills [up  to 20%]**: Students will also receive a
